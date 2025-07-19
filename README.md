@@ -1,4 +1,4 @@
-# SISTEMA DE INVENTARIO
+# SISTEMA GESTIÓN DE INVENTARIO
 
 ### Módulos del Sistema
 
